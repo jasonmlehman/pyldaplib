@@ -9,7 +9,7 @@ I find working with ldap to be cumbersome so this is a simple library with vario
 Pass in a credential file when initializing the library.
 
 from ldaplib import LdapLib as lquery\
-linit = lquery("path to json config file")\
+linit = lquery("path to json config file")
 
 ## Json config file format
 
